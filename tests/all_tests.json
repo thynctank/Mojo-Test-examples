@@ -1,0 +1,7 @@
+[
+  {
+    "title": "Test Tests",
+    "source": "tests/test_tests.js",
+    "testFunction": "TestTests"
+  }
+]

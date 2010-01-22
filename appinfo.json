@@ -1,0 +1,9 @@
+{
+	"id": "com.thynctank.test",
+	"version": "1.0.0",
+	"vendor": "Thynctank",
+	"type": "web",
+	"main": "index.html",
+	"title": "Testing Shiz",
+	"icon": "icon.png"
+}
